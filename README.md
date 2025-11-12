@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 🔭 I’m currently working on Ms Power Platform and Dynamics 365 CRM.<br>👯 I’m looking to collaborate on projects related to Data Science.<br>🤝 I’m looking for help to develop and enhance my frontend skills as well as open to new projects.<br>🌱 I’m currently learning Data Science - deepdived into ML and DL.<br>⚡ Fun fact : just starting my journey :)
 
 
@@ -15,3 +15,4 @@
 [![](https://visitcount.itsvg.in/api?id=dyno8646&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](url)
